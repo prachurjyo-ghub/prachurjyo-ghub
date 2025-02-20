@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachurjyo0&show_icons=true&locale=en&layout=compact" alt="prachurjyo0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachurjyo0&show_icons=true&locale=en" alt="prachurjyo0" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachurjyo0" alt="prachurjyo0" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachurjyo-ghub&show_icons=true&locale=en" alt="prachurjyo-ghub" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachurjyo-ghub" alt="prachurjyo-ghub" /></a> </p>
 
 
